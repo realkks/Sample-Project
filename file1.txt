@@ -1,3 +1,2 @@
 This is sample project 
-New line is added
 Changes done from IDE
