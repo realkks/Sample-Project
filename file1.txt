@@ -1,3 +1,2 @@
 This is sample project 
 Changes done from ID
-new line is modified
